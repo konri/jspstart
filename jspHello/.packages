@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><packages version="1.3">
+  <package exploded="false" inWorkspace="true" name="jspHello.jar" todir="/jspHello" type="jar">
+    <properties>
+      <property name="org.jboss.ide.eclipse.as.core.packages.ModuleIDPropertyKey" value="1420387025499105513399843579090031483"/>
+    </properties>
+  </package>
+  <properties/>
+</packages>
